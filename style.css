@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 12;
+    font-family: Arial, sans-serif;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+    font-size: 13px;
+}
+
+.textlink: hover {
+    text-decoration: underline;
+}
+
+nav ul img {
+    width: 15px;
+    height: 15px;
+}
+
+a:link,
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+nav {
+    text-align: right;
+    margin-top: 25px;
+}
