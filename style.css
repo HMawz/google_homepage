@@ -29,6 +29,7 @@ a:visited {
     text-decoration: none;
 }
 
-nav {
+nav ul li {
     text-align: right;
+    margin: 5px;
 }
