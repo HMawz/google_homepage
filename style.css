@@ -37,3 +37,15 @@ nav {
     position: relative;
     top: 5px;
 }
+
+#central {
+    width: 580px;
+    margin: 85px auto 0;
+    text-align: center;
+}
+
+input[type='text'] {
+    width: 575px;
+    height: 30px;
+    margin: 25px;
+}
